@@ -28,9 +28,23 @@
       "login": "adamlerer",
       "name": "Adam Lerer",
       "avatar_url": "https://avatars2.githubusercontent.com/u/5702157?v=4",
-      "profile": "https://github.com/adamlerer",
+      "profile": "https://research.fb.com/people/lerer-adam/",
       "contributions": [
         "code"
+      ]
+    },
+    {
+      "login": "chartung",
+      "name": "chartung",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7749953?v=4",
+      "profile": "https://github.com/chartung",
+      "contributions": [
+        "bug",
+        "code",
+        "design",
+        "example",
+        "ideas",
+        "question"
       ]
     }
   ]
