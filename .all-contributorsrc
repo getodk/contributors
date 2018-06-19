@@ -115,13 +115,24 @@
       "login": "iamnarendrasingh",
       "name": "Narendra Singh",
       "avatar_url": "https://avatars1.githubusercontent.com/u/5762689?v=4",
-      "profile": "https://iamnarendrasingh.github.io/itsme/",
+      "profile": "https://about.me/iamnarendrasingh",
       "contributions": [
         "blog",
         "bug",
         "example",
         "question",
         "video"
+      ]
+    },
+    {
+      "login": "dickson",
+      "name": "d",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/465313?v=4",
+      "profile": "https://github.com/dickson",
+      "contributions": [
+        "bug",
+        "example",
+        "question"
       ]
     }
   ]
