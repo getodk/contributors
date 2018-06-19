@@ -6,9 +6,9 @@
   "files": [
     "README.md"
   ],
-  "imageSize": 100,
+  "imageSize": 150,
   "commit": true,
-  "contributorsPerLine": 6,
+  "contributorsPerLine": 5,
   "contributors": [
     {
       "login": "gaetano",
@@ -138,7 +138,7 @@
     {
       "login": "mathieubossaert",
       "name": "mathieubossaert",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/1642645?v=4",
+      "avatar_url": "https://pbs.twimg.com/profile_images/691163101467648000/ex0nJDC9_400x400.png",
       "profile": "https://github.com/mathieubossaert",
       "contributions": [
         "bug",
