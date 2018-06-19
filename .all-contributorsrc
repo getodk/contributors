@@ -12,11 +12,11 @@
   "contributors": [
     {
       "login": "gaetano",
-      "name": "gaetano",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/664365?v=4",
-      "profile": "https://github.com/gaetano",
+      "name": "Gaetano Borriello",
+      "avatar_url": "https://news.cs.washington.edu/wp-content/uploads/2015/05/Gaetano_FP-copy11.png",
+      "profile": "https://homes.cs.washington.edu/~gaetano/",
       "contributions": [
-        "blog"
+        "blog","design","fundingFinding","ideas","talk","question"
       ]
     }
   ]

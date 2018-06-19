@@ -16,7 +16,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars0.githubusercontent.com/u/664365?v=4" width="100px;"/><br /><sub><b>gaetano</b></sub>](https://github.com/gaetano)<br />[📝](#blog-gaetano "Blogposts") |
+| [<img src="https://news.cs.washington.edu/wp-content/uploads/2015/05/Gaetano_FP-copy11.png" width="100px;"/><br /><sub><b>Gaetano Borriello</b></sub>](https://homes.cs.washington.edu/~gaetano/)<br />[📝](#blog-gaetano "Blogposts") [🎨](#design-gaetano "Design") [🔍](#fundingFinding-gaetano "Funding Finding") [🤔](#ideas-gaetano "Ideas, Planning, & Feedback") [📢](#talk-gaetano "Talks") [💬](#question-gaetano "Answering Questions") |
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
