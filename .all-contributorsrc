@@ -35,8 +35,8 @@
     },
     {
       "login": "chartung",
-      "name": "chartung",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/7749953?v=4",
+      "name": "Carl Hartung",
+      "avatar_url": "https://opendatakit.org/assets/images/pmc/carl-hartung.jpg",
       "profile": "https://github.com/chartung",
       "contributions": [
         "bug",
@@ -45,6 +45,22 @@
         "example",
         "ideas",
         "question"
+      ]
+    },
+    {
+      "login": "wbrunette",
+      "name": "wbrunette",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/11892715?v=4",
+      "profile": "https://github.com/wbrunette",
+      "contributions": [
+        "bug",
+        "code",
+        "design",
+        "example",
+        "ideas",
+        "question",
+        "talk",
+        "review"
       ]
     }
   ]
