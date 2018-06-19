@@ -44,7 +44,8 @@
         "design",
         "example",
         "ideas",
-        "question"
+        "question",
+        "talk"
       ]
     },
     {
@@ -61,6 +62,23 @@
         "question",
         "talk",
         "review"
+      ]
+    },
+    {
+      "login": "yanokwa",
+      "name": "Yaw Anokwa",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/32369?v=4",
+      "profile": "https://github.com/yanokwa",
+      "contributions": [
+        "bug",
+        "code",
+        "design",
+        "example",
+        "fundingFinding",
+        "ideas",
+        "question",
+        "talk",
+        "tutorial"
       ]
     }
   ]
