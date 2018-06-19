@@ -145,6 +145,17 @@
         "question",
         "talk"
       ]
+    },
+    {
+      "login": "akshay-ap",
+      "name": "Akshay Patel",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16358982?v=4",
+      "profile": "https://github.com/akshay-ap",
+      "contributions": [
+        "bug",
+        "code",
+        "doc"
+      ]
     }
   ]
 }
