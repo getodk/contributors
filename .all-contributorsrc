@@ -16,7 +16,21 @@
       "avatar_url": "https://news.cs.washington.edu/wp-content/uploads/2015/05/Gaetano_FP-copy11.png",
       "profile": "https://homes.cs.washington.edu/~gaetano/",
       "contributions": [
-        "blog","design","fundingFinding","ideas","talk","question"
+        "blog",
+        "design",
+        "fundingFinding",
+        "ideas",
+        "talk",
+        "question"
+      ]
+    },
+    {
+      "login": "adamlerer",
+      "name": "Adam Lerer",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5702157?v=4",
+      "profile": "https://github.com/adamlerer",
+      "contributions": [
+        "code"
       ]
     }
   ]
