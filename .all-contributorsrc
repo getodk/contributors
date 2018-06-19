@@ -110,6 +110,19 @@
         "ideas",
         "review"
       ]
+    },
+    {
+      "login": "iamnarendrasingh",
+      "name": "Narendra Singh",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5762689?v=4",
+      "profile": "https://iamnarendrasingh.github.io/itsme/",
+      "contributions": [
+        "blog",
+        "bug",
+        "example",
+        "question",
+        "video"
+      ]
     }
   ]
 }
