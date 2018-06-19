@@ -126,13 +126,24 @@
     },
     {
       "login": "dickson",
-      "name": "d",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/465313?v=4",
-      "profile": "https://github.com/dickson",
+      "name": "Dickson Samwel",
+      "avatar_url": "https://opendatakit-a3b1.kxcdn.com/user_avatar/forum.opendatakit.org/dicksonsamwel/240/2898_1.png",
+      "profile": "https://forum.opendatakit.org/u/dicksonsamwel/",
       "contributions": [
         "bug",
         "example",
         "question"
+      ]
+    },
+    {
+      "login": "mathieubossaert",
+      "name": "mathieubossaert",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1642645?v=4",
+      "profile": "https://github.com/mathieubossaert",
+      "contributions": [
+        "bug",
+        "question",
+        "talk"
       ]
     }
   ]
