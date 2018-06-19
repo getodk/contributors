@@ -1,0 +1,23 @@
+{
+  "projectName": "contributors",
+  "projectOwner": "opendatakit",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributorsPerLine": 6,
+  "contributors": [
+    {
+      "login": "gaetano",
+      "name": "gaetano",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/664365?v=4",
+      "profile": "https://github.com/gaetano",
+      "contributions": [
+        "blog"
+      ]
+    }
+  ]
+}
